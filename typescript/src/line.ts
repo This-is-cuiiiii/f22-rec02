@@ -1,4 +1,4 @@
-import { newPolarPoint, PolarPoint } from "./points/polarPoint";
+import { newPolarPoint } from "./points/polarPoint";
 
 function newLine (point1: Point, point2: Point) {
     return {    
